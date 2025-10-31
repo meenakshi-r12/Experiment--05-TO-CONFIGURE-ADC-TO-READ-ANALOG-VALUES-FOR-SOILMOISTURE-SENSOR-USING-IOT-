@@ -265,8 +265,10 @@ SECTIONS
 
 ## Output screen shots on serial monitor   :
  
+ ![WhatsApp Image 2025-10-31 at 10 39 58_704e5365](https://github.com/user-attachments/assets/1782484c-f894-4479-b6e8-f97e1cde7222)
+
  
- 
- 
+ <img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/22b1f5dd-b2cd-4856-a447-1ff7f295c33d" />
+
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
